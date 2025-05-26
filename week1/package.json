@@ -5,7 +5,7 @@
  "scripts": {
   "build": "tsc",
   "start": "node dist/index.js",
-  "dev": "ts-node src/scripts/assignment1.ts"
+  "dev": "ts-node src/scripts/assgianTest1.ts"
 },
   "keywords": [],
   "author": "",
