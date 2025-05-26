@@ -4,7 +4,7 @@ tạo tạo transaction và ký transaction
 gửi vào mạng blockchain     
 
 -các transaction thực có thể thực thi song song không tuần tự tăng hiệu xuất trên solana
-
+..
 ## Account: 
 + mọi thứ trên solana đều là account 
 + dùng để lữu trữ thông tin 
